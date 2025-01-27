@@ -1,16 +1,22 @@
-# quiz_app
+# Quiz App 🎯📚
 
 A new Flutter project.
+A simple Flutter app designed to help users test their knowledge through multiple-choice quizzes. This app presents questions, allows users to select answers, and displays the final result, showing how many answers were correct out of the total. Perfect for learning and fun!
 
-## Getting Started
+# Getting Started 🚀
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a quiz application built with Flutter. If you're new to Flutter, here are some resources to help you get started:
 
-A few resources to get you started if this is your first Flutter project:
+Lab: Write your first Flutter app
+Cookbook: Useful Flutter samples
+Flutter Documentation: Offers tutorials, samples, and a full API reference.
+Flutter Docs
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Features 🚀
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Multiple-Choice Questions – Test your knowledge with interactive MCQs.
+✅ Quiz Timer ⏳ – Challenge yourself with time-limited questions.
+✅ Final Result – Displays the total correct answers out of the total.
+✅ Category-Based Quizzes – Choose from different quiz topics.
+✅ Smooth UI – Clean and user-friendly interface.
+✅ Dark/Light Mode – Switch themes based on preference.
